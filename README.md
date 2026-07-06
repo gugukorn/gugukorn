@@ -7,6 +7,8 @@ Java/Spring Boot 기반 백엔드, 메시징, 업무 시스템, AI 연동 프로
 
 [Portfolio](https://gugukorn.github.io/) · [GitHub](https://github.com/gugukorn) · [Email](mailto:ljw5953@gmail.com)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljw59531)](https://solved.ac/profile/ljw59531)
+
 </div>
 
 ---
